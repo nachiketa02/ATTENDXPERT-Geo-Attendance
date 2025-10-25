@@ -16,7 +16,14 @@ Proudly Made in India 🇮🇳 | Supporting Digital India & Atmanirbhar Bharat
 - AttendXpert Geo-Attendance is a web and Android-based smart attendance system that marks attendance automatically based on a user’s live GPS coordinates and their assigned timetable.
 The system verifies whether the employee or student is inside a designated location (geo-fence) and within their scheduled class or shift time before marking attendance.
 
+# WEBSITE 
+- LINK --- https://attendxpert-geo-attendance.netlify.app/
+
+
 - It’s a part of the AttendXpert Suite, designed to deliver affordable, intelligent, and locally developed digital attendance solutions for schools, colleges, and organizations across India.
+
+# SCRENNSHOTS 
+ Go through the Screesnshot folder 
 
  # Key Features
 
@@ -32,7 +39,11 @@ The system verifies whether the employee or student is inside a designated locat
 
 - Smart Notifications: Alerts for late arrivals, absentees, and out-of-zone users.
 
-- Offline Mode: Saves attendance when offline and syncs automatically later.
+- Offline Mode: acess to the admin panel to see the activity
+
+- admin can generatr CSV file on giving Date in (dd/mm/yyyy) format 
+
+
 
 # How It Works
 
