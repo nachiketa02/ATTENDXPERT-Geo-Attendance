@@ -2,7 +2,7 @@
 Location-based attendance management system using GPS and web dashboard — part of AttendXpert, promoting Digital India and Atmanirbhar Bharat through affordable cloud attendance solutions.
 
  Part of AttendXpert | Made in India | Affordable Digital Attendance Solution
- 
+
 # Vision
 
 To make India’s attendance systems fully digital and location-aware, helping schools, offices, and industries go paperless and smarter — all through indigenous innovation.
@@ -55,9 +55,11 @@ The system verifies whether the employee or student is inside a designated locat
 - Hosting	AttendXpert (Netlify)
 - Database Firebase
 
-# Pricing Model
- - contact--- attendxpert@gmail.com
- - contact--- https://www.linkedin.com/in/nachiketadebnath/
+# Pricing & Revenue Model / TO KNOW MORE CONTACT US AT----- 
+
+   - Gamil----   attendxpert@gmail.com 
+   - Gmail----   nachiketadebnath1@gmail.com
+   - inkedin----https://www.linkedin.com/in/nachiketadebnath/
 
 # Target Market
 
