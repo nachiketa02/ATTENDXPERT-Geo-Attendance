@@ -22,8 +22,8 @@ The system verifies whether the employee or student is inside a designated locat
 
 - It’s a part of the AttendXpert Suite, designed to deliver affordable, intelligent, and locally developed digital attendance solutions for schools, colleges, and organizations across India.
 
-# SCRENNSHOTS 
- Go through the Screesnshot folder 
+# PDF FILE  
+ Go through PDF file name with "© AttendXpert-GeoAttendance.pdf" fro the visual of all the functionality and feature
 
  # Key Features
 
