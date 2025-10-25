@@ -18,7 +18,7 @@ The system verifies whether the employee or student is inside a designated locat
 
 # WEBSITE 
 - LINK --- https://attendxpert-geo-attendance.netlify.app/
-
+- Please also refer to the attached PDF file, which contains the screenshots in document form.
 
 - It’s a part of the AttendXpert Suite, designed to deliver affordable, intelligent, and locally developed digital attendance solutions for schools, colleges, and organizations across India.
 
